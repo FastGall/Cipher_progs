@@ -1,0 +1,3 @@
+encrypte
+english 1
+SOMETEXT
